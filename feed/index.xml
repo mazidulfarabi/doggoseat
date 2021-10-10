@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Doggoseat</title>
-	<atom:link href="/doggoseat/feed/" rel="self" type="application/rss+xml" />
-	<link>/doggoseat</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Restaurants - Declassified</description>
 	<lastBuildDate>Sat, 09 Oct 2021 17:10:34 +0000</lastBuildDate>
 	<language>en-US</language>
