@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Doggoseat	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://doggoseat.netlify.app/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://doggoseat.netlify.app</link>
 	<description>Restaurants - Declassified</description>
 	<lastBuildDate>Fri, 22 Oct 2021 22:48:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
