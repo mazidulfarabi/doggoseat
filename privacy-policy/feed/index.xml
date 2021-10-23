@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="https://doggoseat.netlify.app/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>https://doggoseat.netlify.app</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Restaurants - Declassified</description>
 	<lastBuildDate>Fri, 22 Oct 2021 22:48:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
